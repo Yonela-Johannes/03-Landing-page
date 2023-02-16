@@ -1,0 +1,23 @@
+.banner {
+  display: flex;
+  height: 500px;
+  align-items: center;
+  justify-content: flex-start;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+  color: white;
+  background-color: #1D2737;
+  margin-bottom: 50px;
+  text-shadow: 1px 1px 2px black;
+}
+
+.banner h1 {
+  font-size: 45px;
+  margin-bottom: 10px;
+}
+
+.banner p{
+  margin-bottom: 40px;
+  font-size: 23px;
+}
